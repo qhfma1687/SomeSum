@@ -50,17 +50,21 @@ SomeSum
 ### 2.3 결과물
 
 #### 메인 화면
+![main](https://github.com/user-attachments/assets/3afdc72d-3688-471f-b618-ba93961198bd)
 
 * 이번 달 총 지출, 카테고리별 지출 요약
 * 도넛 차트를 통한 지출 시각화
 
 #### 지출 추가 화면
-![KakaoTalk_20250618_193250382](https://github.com/user-attachments/assets/a1366d18-4604-43d4-bb45-6ed0427a1726)
+![input1](https://github.com/user-attachments/assets/c2e2d24b-01ac-4cb6-b9c9-8b295b48dae1)
+![input2](https://github.com/user-attachments/assets/16220a4f-c816-46f2-8b36-e754e9cb749a)
+
 
 
 * 금액, 카테고리, 메모를 입력하여 새로운 지출 추가
 
 #### 카테고리 상세 화면
+![view](https://github.com/user-attachments/assets/75317b56-0430-48f3-ba43-90fdf37928ca)
 
 * 선택한 카테고리에 대한 지출 내역을 목록으로 확인
 
