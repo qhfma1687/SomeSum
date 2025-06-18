@@ -103,7 +103,7 @@ SomeSum
 
 ## 2.7 시연영상
 
-* 발표 영상 자리
+https://youtu.be/nDMtjJMCeeg
 
 
 
