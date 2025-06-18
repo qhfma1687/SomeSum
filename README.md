@@ -55,6 +55,8 @@ SomeSum
 * 도넛 차트를 통한 지출 시각화
 
 #### 지출 추가 화면
+![KakaoTalk_20250618_193250382](https://github.com/user-attachments/assets/a1366d18-4604-43d4-bb45-6ed0427a1726)
+
 
 * 금액, 카테고리, 메모를 입력하여 새로운 지출 추가
 
